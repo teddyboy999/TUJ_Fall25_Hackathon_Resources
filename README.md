@@ -13,4 +13,8 @@ python_filesListsDictionariesMindmap.png
 1. **"pygame_example.py"**: Basic Pygame Example game to see the basics of a PyGame Game setup.
 2. **"Intro to PyGame Guide.pdf"**: Guide to getting started with PyGame and a few written notes on the basics of GameDev.
 
+# Additional Resource links:
+1. **Git Cheatsheet**: https://education.github.com/git-cheat-sheet-education.pdf
+2. **HTML Cheatsheet**: https://htmlcheatsheet.com/ 
+
 Author: Bhushith Gujjala Hari
